@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Dylan-Cast
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi! My name is Alberto, also known as Dylan Cast.
 
-<!---
-Dylan-Cast/Dylan-Cast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Thank you for visiting my profile.
+
+I'm a student at the Web Development school (in Platzi), Musician and producer. Pleased to meet you!
+
+- 💻 Frontend developer (in Process) |
+- 🎨 UX / UI designer (in Process) |
+- 👾 Geek & Friki |
