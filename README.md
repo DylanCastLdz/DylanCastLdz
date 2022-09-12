@@ -7,3 +7,4 @@ I'm a student at the Web Development school (in Platzi), Musician and producer. 
 - 💻 Frontend developer (in Process) |
 - 🎨 UX / UI designer (in Process) |
 - 👾 Geek & Friki |
+- 🧑🏻‍💻❤️📖 Technology lover and Books fan 
